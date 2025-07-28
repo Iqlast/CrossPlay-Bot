@@ -9,7 +9,7 @@ drop your query to query.txt
 
 RUN BOT 
 
-    node . // or node index
+    node .
 
 
 result 
